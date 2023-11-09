@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.align-right {
+  display: flex !important;
+  justify-content: right !important;
+}
+
+.align_center {
+  display: flex !important;
+  justify-content: center !important;
+}
