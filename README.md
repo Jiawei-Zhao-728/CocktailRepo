@@ -1,7 +1,7 @@
 # CocktailRepo
 A simple WebApp for Looking up Cocktail and Displaying them.
 
-### Instructions to Run:
+## Instructions to Run:
 - After you have cloned the code
 - run `npm install -g vite` to install vite in your system
 ```bash
@@ -15,3 +15,11 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Tech Stech: 
+- React
+- Material UI
+- JavaScript
+
+# API Used:
+- CocktailDB: https://www.thecocktaildb.com/api.php
