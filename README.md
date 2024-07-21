@@ -1,5 +1,8 @@
 # CocktailRepo
 A simple WebApp for Looking up Cocktail and Displaying them.
+# Website:
+http://cocktailrepo.co
+
 
 ## Instructions to Run:
 - After you have cloned the code
